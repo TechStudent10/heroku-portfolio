@@ -3,7 +3,7 @@ Hey,
 Welcome to my heroku portfolio github page.
 My portfolio is located at: https://techstudent11.herokuapp.com
 
-**NOTE: We haven't yet updated this code to the heroku page, but that's coming shortly, if you want to see how this code looks, please download the code and open index.html up for yourself**
+**NOTE: I haven't yet updated this code to the heroku page, but that's coming shortly, if you want to see how this code looks, please download the code and open index.html up for yourself**
 
 Thanks for your support on my project,
 TechStudent11
